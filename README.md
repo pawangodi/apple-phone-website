@@ -14,9 +14,12 @@ Currently, two official plugins are available:
 - 
 -    1_ Open your editor (VS code) copy this command and paste to your terminal
 -        command_  git clone https://github.com/pawangodi/apple-phone-website.git
+-    
      2_ Navigate to project directory using cd command if you
+     
      3_ Insatll  all dependency by using command
          command npm i
          Alternate yarn install
+     
      4_ After the dependency are installed you can run this command and start the application into your local machine.
         command_  npm run dev 
